@@ -1,6 +1,6 @@
 # AirBnB_clone
 
-📝 ## The Description
+## 📝 The Description
    This Holberton School project and is the first for the great construction of an HBNB online market space: the AirBnB clone. For this level, a part will be managed from the backend.
 ## AirBnB console usage
 This console allow us to be able to manage the objects of our project:
