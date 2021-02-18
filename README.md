@@ -51,5 +51,8 @@ Destroy
 Update
 #
 	update <class name> <id> <attribute name>
-# AUTHOR
-Andres Sepulveda <twitter.com/andy_cid> & Cristian Betancur <twitter.com/cryptocoincanal>
+	
+### 👨‍💻 Author
+
+
+[Andres Sepulveda](https://twitter.com/andy_cid_)  & [Cristian Betancur](https://twitter.com/cryptocoincanal) 
