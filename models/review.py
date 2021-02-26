@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-[Review class]
+[Review classss]
 """
 from models.base_model import BaseModel
 
