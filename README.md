@@ -1,5 +1,4 @@
 
-	update <class name> <id> <attribute name>
 	
 ### 👨‍💻 Authors
 
