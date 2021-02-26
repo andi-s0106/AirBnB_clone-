@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" TestBaseModel module for testing the BaseModel class"""
+""" TestBaseModel module for testing the BaseModel classss"""
 import unittest
 from models.base_model import BaseModel
 import uuid
